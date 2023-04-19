@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1681062600 source:c:\users\user\documents\pashchenko-danylo-kn22\lab09\prj\paschenko_task.exe\main.cpp
+1681937666 source:c:\users\user\documents\pashchenko-danylo-kn22\lab09\prj\paschenko_task.exe\main.cpp
 	<iostream>
 	"ModulesPaschenko.h"
 	<windows.h>

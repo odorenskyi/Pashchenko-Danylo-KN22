@@ -16,7 +16,15 @@ float s_calculation(int x, int y, int z)
 
 string waves(int userChoice)
 {
-    int grade = userChoice;
+    int grade;
+    try
+    {
+        grade = userChoice;
+    }
+    catch(...)
+    {
+        return "¬ведений бал не Ї числом";
+    }
 
     struct WAVES{
         string description;
@@ -99,12 +107,16 @@ int numbers(int loopSize)
         }
     }
 
-    int result[3] = {countNegativeNum, countNumEqualsZero, countNumInRange5_1024};
-    cout << endl << "–езультат: " << "к≥льк≥сть в≥д'Їмних чисел: " << result[0] << ", к≥льк≥сть чисел, €к≥ р≥вн≥ нулю: " << result[1] << ", к≥льк≥сть чисел, що лежить у д≥апазон в≥д 5 до 1024: " << result[2] << endl;
+    cout << endl << "–езультат: " << "к≥льк≥сть в≥д'Їмних чисел: " << countNegativeNum << ", к≥льк≥сть чисел, €к≥ р≥вн≥ нулю: " << countNumEqualsZero << ", к≥льк≥сть чисел, що лежить у д≥апазон в≥д 5 до 1024: " << countNumInRange5_1024 << endl;
 }
 
 int binary(int userNumber)
 {
+    if(userNumber < 0 || userNumber > 70700)
+    {
+        return NULL;
+    }
+
     int number = userNumber;
 
     int count1 = 0;
@@ -123,6 +135,6 @@ int binary(int userNumber)
     }
     else if ((number & 1) == 0)
     {
-        return count1;
+        return count0;
     }
 }
