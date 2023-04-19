@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681931064 source:c:\users\user\documents\pashchenko-danylo-kn22\lab09\prj\testdrivers\testdriver1\testdriver\main.cpp
+	<iostream>
+	"ModulesPaschenko.h"
+
+1681062600 c:\users\user\documents\pashchenko-danylo-kn22\lab09\prj\modulespaschenko\modulespaschenko.h
+
