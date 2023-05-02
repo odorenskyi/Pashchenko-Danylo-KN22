@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1677191330 source:c:\users\user\documents\pashchenko-danylo-kn22\lab08\prj\modulespaschenko\main.cpp
+	<cmath>
+
+1683064907 source:c:\users\user\documents\pashchenko-danylo-kn22\lab10\prj\modulespaschenko\main.cpp
+	<cmath>
+	<fstream>
+	<iostream>
+	<ctime>
+	<wctype.h>
+
