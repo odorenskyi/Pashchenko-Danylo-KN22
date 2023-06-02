@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1685691120 source:c:\users\user\documents\pashchenko-danylo-kn22\lab12\prj\teacher\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	"ModulesPaschenko.h"
+
+1685691089 c:\users\user\documents\pashchenko-danylo-kn22\lab12\prj\modulespaschenko\modulespaschenko.h
+	<cmath>
+

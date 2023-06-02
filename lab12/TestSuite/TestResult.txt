@@ -1,0 +1,50 @@
+Test Suite ¹1
+Face: 1.000000
+Planes: 1.000000
+Is empty: 1
+Volume: 1.000000
+Test Suite ¹2
+Face: 2.000000
+Planes: 1.000000
+Is empty: 1
+Volume: 8.000000
+Test Suite ¹3
+Face: 3.000000
+Planes: 1.000000
+Is empty: 1
+Volume: 27.000000
+Test Suite ¹4
+Face: 33.000000
+Planes: 1.000000
+Is empty: 1
+Volume: 35937.000000
+Test Suite ¹5
+Face: 333.000000
+Planes: 1.000000
+Is empty: 1
+Volume: 36926037.000000
+Test Suite ¹6
+Face: 3.330000
+Planes: 1.000000
+Is empty: 1
+Volume: 36.926037
+Test Suite ¹7
+Face: 1246.230000
+Planes: 1.000000
+Is empty: 1
+Volume: 1935506369.792367
+Test Suite ¹8
+Face: 123.000000
+Planes: 1.000000
+Is empty: 1
+Volume: 1860867.000000
+Test Suite ¹9
+Face: 0.000000
+Planes: 1.000000
+Is empty: 1
+Volume: 0.000000
+Test Suite ¹10
+Face: 12515132125.000000
+Planes: 1.000000
+Is empty: 1
+Volume: 1960226773853985383221223751680.000000
